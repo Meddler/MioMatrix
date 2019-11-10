@@ -1,0 +1,11 @@
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Debug\MioMatrix.Test.dll
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Debug\MioMatrix.Test.pdb
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\obj\Debug\MioMatrix.Test.csprojResolveAssemblyReference.cache
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\obj\Debug\MioMatrix.Test.dll
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\obj\Debug\MioMatrix.Test.pdb
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Debug\MioMatrix.exe
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Debug\Midi.dll
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Debug\MioMatrix.pdb
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Debug\Midi.pdb

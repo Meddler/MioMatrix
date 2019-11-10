@@ -1,0 +1,11 @@
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\bin\Debug\MioMatrix.exe.config
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\obj\Debug\MioMatrix.csprojResolveAssemblyReference.cache
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\obj\Debug\MioMatrix.Form1.resources
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\obj\Debug\MioMatrix.Properties.Resources.resources
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\obj\Debug\MioMatrix.csproj.GenerateResource.Cache
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\bin\Debug\MioMatrix.exe
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\bin\Debug\MioMatrix.pdb
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\bin\Debug\Midi.dll
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\bin\Debug\Midi.pdb
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\obj\Debug\MioMatrix.exe
+c:\users\iscrh\documents\visual studio 2015\Projects\MioMatrix\MioMatrix\obj\Debug\MioMatrix.pdb

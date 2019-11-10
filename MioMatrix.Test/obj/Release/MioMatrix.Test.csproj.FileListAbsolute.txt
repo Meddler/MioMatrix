@@ -1,0 +1,11 @@
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Release\MioMatrix.Test.dll
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Release\MioMatrix.Test.pdb
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Release\MioMatrix.exe
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Release\Midi.dll
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Release\MioMatrix.pdb
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\bin\Release\Midi.pdb
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\obj\Release\MioMatrix.Test.csprojResolveAssemblyReference.cache
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\obj\Release\MioMatrix.Test.dll
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix.Test\obj\Release\MioMatrix.Test.pdb

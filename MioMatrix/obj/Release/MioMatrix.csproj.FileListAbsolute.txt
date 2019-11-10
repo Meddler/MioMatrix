@@ -1,0 +1,10 @@
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\bin\Release\MioMatrix.exe.config
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\bin\Release\MioMatrix.exe
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\bin\Release\MioMatrix.pdb
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\bin\Release\Midi.dll
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\bin\Release\Midi.pdb
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\obj\Release\MioMatrix.Form1.resources
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\obj\Release\MioMatrix.Properties.Resources.resources
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\obj\Release\MioMatrix.csproj.GenerateResource.Cache
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\obj\Release\MioMatrix.exe
+C:\Users\isCrh\Documents\Visual Studio 2015\Projects\MioMatrix\MioMatrix\obj\Release\MioMatrix.pdb

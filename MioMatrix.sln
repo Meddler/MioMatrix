@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MioMatrix", "MioMatrix\MioMatrix.csproj", "{DA77C71D-ED82-40B6-A9B5-0C5ED0C77C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MioMatrix.Test", "MioMatrix.Test\MioMatrix.Test.csproj", "{DE37B54F-3B47-4AC4-A3BB-82989A68A00C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA77C71D-ED82-40B6-A9B5-0C5ED0C77C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA77C71D-ED82-40B6-A9B5-0C5ED0C77C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA77C71D-ED82-40B6-A9B5-0C5ED0C77C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA77C71D-ED82-40B6-A9B5-0C5ED0C77C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE37B54F-3B47-4AC4-A3BB-82989A68A00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE37B54F-3B47-4AC4-A3BB-82989A68A00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE37B54F-3B47-4AC4-A3BB-82989A68A00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE37B54F-3B47-4AC4-A3BB-82989A68A00C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
