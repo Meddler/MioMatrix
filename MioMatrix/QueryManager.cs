@@ -36,11 +36,11 @@ namespace MioMatrix
 
             if (InputDevice.InstalledDevices.Count > 0)
             {
-                _inputDevice = InputDevice.InstalledDevices.FirstOrDefault(x => x.Name == "mio10");
+                _inputDevice = InputDevice.InstalledDevices.FirstOrDefault(x => x.Name == "mio10 D2");
                 _inputDevice.SysEx += HandleSysex;
                 _inputDevice.Open();
                 _inputDevice.StartReceiving(null, true);
-                _outputDevice = OutputDevice.InstalledDevices.FirstOrDefault(x => x.Name == "mio10");
+                _outputDevice = OutputDevice.InstalledDevices.FirstOrDefault(x => x.Name == "mio10 D2");
                 _outputDevice.Open();
             }
         }
