@@ -36,11 +36,23 @@ namespace MioMatrix
 
             if (InputDevice.InstalledDevices.Count > 0)
             {
-                _inputDevice = InputDevice.InstalledDevices.FirstOrDefault(x => x.Name == "mio10 D2");
+                _inputDevice = InputDevice.InstalledDevices.FirstOrDefault(x => x.Name == "DIN 1");
+
+                if (_inputDevice == null)
+                {
+                    throw new Exception(string.Format("Could not get input device. Count: {0} Available devices: {1}", Win32API.midiInGetNumDevs(), string.Join(", ", InputDevice.InstalledDevices.Select(x => x.Name))));
+                }
+
                 _inputDevice.SysEx += HandleSysex;
                 _inputDevice.Open();
                 _inputDevice.StartReceiving(null, true);
-                _outputDevice = OutputDevice.InstalledDevices.FirstOrDefault(x => x.Name == "mio10 D2");
+                _outputDevice = OutputDevice.InstalledDevices.FirstOrDefault(x => x.Name == "DIN 1");
+
+                if (_outputDevice == null)
+                {
+                    throw new Exception("Could not get output device.");
+                }
+
                 _outputDevice.Open();
             }
         }
